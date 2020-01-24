@@ -7,7 +7,7 @@ platform:
 
 clone:
   depth: 1
-
+###1
 steps:
   - name: Compile
     image: kdrag0n/fedora-kbuild:gcc-9.1.1
